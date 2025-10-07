@@ -1,0 +1,55 @@
+h1{
+
+  font-family: "UnifrakturMaguntia", cursive, "consolas";
+  font-size: 60px;
+  font-style: normal;
+  text-align: center;
+  color: #4a5f75;
+  border-top-style: double;
+  border-bottom-style: double;
+  border-top-color: 
+
+}
+
+p{
+    font-family: "italianno", "consolas";
+    font-size: 30px;
+    font-style: bold;
+    font-weight: 800;
+    color: #1c140b;
+}
+
+body{
+    background-image: url(Michelangelo_-_Creation_of_Adam_\(cropped\).jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+
+footer {
+margin-bottom: auto;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+
+}
+
+#schooling{
+    margin-left: 3%;
+}
+
+#aspirations{
+    margin-left: 40%;
+}
+
+#details{
+    text-decoration: underline;
+
+}
+
+footer{
+    font-family: "UnifrakturMaguntia", cursive, "consolas";
+    
+}
